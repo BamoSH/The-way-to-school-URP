@@ -1,0 +1,4 @@
+repository "The way to school(URP)@the-way-to-school@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     

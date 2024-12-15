@@ -1,0 +1,3 @@
+Spline Name: 贝塞尔曲线
+  Point 1: co=<Vector (-0.9920, -0.0909, -0.0561)>, handle_left=<Vector (-1.6660, 0.0397, -0.2254)>, handle_right=<Vector (-0.3180, -0.2216, 0.1132)>
+  Point 2: co=<Vector (0.9990, 0.0113, 0.0070)>, handle_left=<Vector (0.0176, 0.2030, 0.0018)>, handle_right=<Vector (1.9804, -0.1804, 0.0121)>

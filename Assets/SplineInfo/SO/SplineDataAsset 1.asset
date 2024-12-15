@@ -1,0 +1,316 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 057be924a9c46ea408ec2aecb93abdbe, type: 3}
+  m_Name: SplineDataAsset 1
+  m_EditorClassIdentifier: 
+  PathData:
+    slices:
+    - splineIndex: 0
+      range:
+        m_Start: 0
+        m_Count: 3
+        m_Direction: 0
+      isEnabled: 1
+      sliceLength: 48.713448
+      distanceFromStart: 0
+      possibleSlices: 01000000
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 1
+      range:
+        m_Start: 0
+        m_Count: 3
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 15.356645
+      distanceFromStart: 48.713448
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 2
+      range:
+        m_Start: 0
+        m_Count: 9
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 29.952007
+      distanceFromStart: 64.07009
+      possibleSlices: 0400000003000000
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 3
+      range:
+        m_Start: 0
+        m_Count: 3
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 15.247153
+      distanceFromStart: 94.022095
+      possibleSlices: 050000000600000007000000
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 4
+      range:
+        m_Start: 0
+        m_Count: 4
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 8.080548
+      distanceFromStart: 109.26925
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 5
+      range:
+        m_Start: 0
+        m_Count: 4
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 12.486968
+      distanceFromStart: 117.3498
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 6
+      range:
+        m_Start: 0
+        m_Count: 18
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 85.32782
+      distanceFromStart: 129.83676
+      possibleSlices: 0800000009000000
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 7
+      range:
+        m_Start: 0
+        m_Count: 11
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 61.280014
+      distanceFromStart: 215.16458
+      possibleSlices: 0e0000000f000000
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 8
+      range:
+        m_Start: 0
+        m_Count: 3
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 6.6559978
+      distanceFromStart: 276.44458
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 9
+      range:
+        m_Start: 0
+        m_Count: 8
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 23.644243
+      distanceFromStart: 283.1006
+      possibleSlices: 0a0000000b000000
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 10
+      range:
+        m_Start: 0
+        m_Count: 2
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 10.412079
+      distanceFromStart: 306.74484
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 11
+      range:
+        m_Start: 0
+        m_Count: 10
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 62.32448
+      distanceFromStart: 317.15692
+      possibleSlices: 0c0000000d000000
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 12
+      range:
+        m_Start: 0
+        m_Count: 2
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 11.4016905
+      distanceFromStart: 379.48138
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 13
+      range:
+        m_Start: 0
+        m_Count: 9
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 27.130886
+      distanceFromStart: 390.8831
+      possibleSlices: 160000001700000018000000
+      optionData:
+        optionIndex: 2
+        optionAscend: 0
+    - splineIndex: 14
+      range:
+        m_Start: 0
+        m_Count: 4
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 9.909858
+      distanceFromStart: 418.01398
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 15
+      range:
+        m_Start: 0
+        m_Count: 4
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 14.482525
+      distanceFromStart: 427.92383
+      possibleSlices: 1000000011000000
+      optionData:
+        optionIndex: 1
+        optionAscend: 0
+    - splineIndex: 16
+      range:
+        m_Start: 0
+        m_Count: 7
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 54.275455
+      distanceFromStart: 442.40634
+      possibleSlices: 1200000013000000
+      optionData:
+        optionIndex: 1
+        optionAscend: 0
+    - splineIndex: 17
+      range:
+        m_Start: 0
+        m_Count: 2
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 7.358913
+      distanceFromStart: 496.6818
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 18
+      range:
+        m_Start: 0
+        m_Count: 4
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 15.669342
+      distanceFromStart: 504.0407
+      possibleSlices: 1400000015000000
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 19
+      range:
+        m_Start: 0
+        m_Count: 2
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 10.37709
+      distanceFromStart: 519.7101
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 20
+      range:
+        m_Start: 0
+        m_Count: 2
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 5.369087
+      distanceFromStart: 530.08716
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 21
+      range:
+        m_Start: 0
+        m_Count: 5
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 10.220164
+      distanceFromStart: 535.45624
+      possibleSlices: 160000001700000018000000
+      optionData:
+        optionIndex: 1
+        optionAscend: 0
+    - splineIndex: 22
+      range:
+        m_Start: 0
+        m_Count: 5
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 11.249027
+      distanceFromStart: 545.6764
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 23
+      range:
+        m_Start: 0
+        m_Count: 5
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 26.473349
+      distanceFromStart: 556.9254
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
+    - splineIndex: 24
+      range:
+        m_Start: 0
+        m_Count: 4
+        m_Direction: 0
+      isEnabled: 0
+      sliceLength: 12.155317
+      distanceFromStart: 583.39874
+      possibleSlices: 
+      optionData:
+        optionIndex: 0
+        optionAscend: 1
